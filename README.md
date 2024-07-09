@@ -19,4 +19,4 @@ Helloo!!! My name is Salwa Widfa Utami 👋
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
-[![Python](https://img.shields.io/badge/Python-FF6C37?style=for-the-badge&logo=python&logoColor=white)](https://www.python.com/)
+[![Python](https://img.shields.io/badge/Python-36C2CE?style=for-the-badge&logo=python&logoColor=white)](https://www.python.com/)
