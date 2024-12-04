@@ -8,7 +8,7 @@ Helloo!!! My name is Salwa Widfa Utami 👋
 </ul>
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([linkedin.com/in/salwa-widfa-utami-aa0a57277/](https://www.linkedin.com/in/salwa-widfa-utami-aa0a57277/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/salwa-widfa-utami-aa0a57277/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/salwidfau/)
 
 ## 🛠 Languages and Tools
