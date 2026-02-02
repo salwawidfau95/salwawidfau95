@@ -2,14 +2,15 @@ Helloo!!! My name is Salwa Widfa Utami 👋
 
 ## 📝 Currently Learning
 <ul>
+  <li>Powerapps & PowerAutomate 365</li>
+  <li>Java Ebuilder Intramart</li>
+  <li>FastAPI</li>
   <li>React Js</li>
   <li>Lumen</li>
-  <li>FastAPI</li>
 </ul>
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/salwa-widfa-utami-aa0a57277/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/salwidfau/)
 
 ## 🛠 Languages and Tools
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
